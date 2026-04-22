@@ -41,14 +41,6 @@ header img{
 .link:hover{
     color: rgb(173, 153, 102);
 }
-
-
-
-
-
-
-
-
 #hrbanner{
 margin: 16px;
 }
@@ -61,7 +53,7 @@ margin: 16px;
     display: flex;
     width: 1520px;
     height: 400px;
-    background-image: url(/imagens/banner-bg.png);
+    background-image: url(https://preview.colorlib.com/theme/rooftop/img/banner-bg.png);
     background-position: center;
     box-sizing: border-box;
     text-align: center;
